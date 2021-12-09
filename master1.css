@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  background-color: #F7F9FA;
+  background-size: cover;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F7F9FA;
+}
+
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #343434;
+
+}
